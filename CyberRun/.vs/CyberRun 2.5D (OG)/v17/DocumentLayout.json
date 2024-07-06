@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinsmoke\\Desktop\\Done (OG)\\CyberRun 2.5D (OG)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803CBC82-43AA-2944-B09D-7952F19DEC1E}|Assembly-CSharp.csproj|c:\\users\\vinsmoke\\desktop\\done (og)\\cyberrun 2.5d (og)\\assets\\scripts\\general\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803CBC82-43AA-2944-B09D-7952F19DEC1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Vinsmoke\\Desktop\\Done (OG)\\CyberRun 2.5D (OG)\\Assets\\Scripts\\General\\Services\\AdsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Services\\AdsManager.cs",
+              "ToolTip": "C:\\Users\\Vinsmoke\\Desktop\\Done (OG)\\CyberRun 2.5D (OG)\\Assets\\Scripts\\General\\Services\\AdsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Services\\AdsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T04:31:08.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
